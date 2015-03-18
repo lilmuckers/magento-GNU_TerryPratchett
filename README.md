@@ -1,2 +1,2 @@
 # magento-GNU_TerryPratchett
-Adds the X-Clacks_Overhead tag to magento.
+Adds the X-Clacks-Overhead tag to magento.
